@@ -4,3 +4,5 @@
 # Listado de Clientes
 
 # Endponts utiles: http://localhost:5000/api/listclientes - http://localhost:5000/api/cliente/crearcliente
+
+# Swagger url: http://localhost:5000/swagger-ui/index.html
